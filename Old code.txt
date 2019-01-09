@@ -1,0 +1,33 @@
+## Find all events in html string
+#events = []
+
+#for event in range(900,1100):
+#	if f"event-{event}" in str(html):
+#		print(f"Found event #{event}")
+#		events.append(f"event-{event}")
+
+#print(f"Finished scraping {url}")
+
+## Finds new events from events array
+#baseline = open("C:\\Users\\Ian\\source\\repos\\MLH Hackathon Scraper\\baseline.txt", "r")
+#baseline_lst = (baseline.read()).split("\n")
+#baseline.close()
+
+## Find any new events
+#new_events = []
+
+#for event in events:
+#	if event not in baseline_lst:
+#		print(f"{event} is new!")
+#		new_events.append(event)
+
+## Alert the user if new_events is empty
+#if not new_events:
+#	print("No new events found")
+
+## Create a file that will store what events aren't new
+#baseline = open("C:\\Users\\Ian\\source\\repos\\MLH Hackathon Scraper\\baseline.txt", "w")
+## Write all events to baseline file
+#baseline.write("".join(str(i)+"\n" for i in events))
+#baseline.close()
+#print("Finished writing to baseline")
