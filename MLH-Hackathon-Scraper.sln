@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MLH Hackathon Scraper", "MLH Hackathon Scraper.pyproj", "{8139A3D4-3819-4626-913A-BCAD11C881E5}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MLH-Hackathon-Scraper", "MLH-Hackathon-Scraper.pyproj", "{A573B9FB-A8AC-463D-8599-E662796B79FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8139A3D4-3819-4626-913A-BCAD11C881E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8139A3D4-3819-4626-913A-BCAD11C881E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A573B9FB-A8AC-463D-8599-E662796B79FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A573B9FB-A8AC-463D-8599-E662796B79FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AA29B39E-21E1-4476-AAFE-5C80ECD53C67}
+		SolutionGuid = {2493207B-1733-44CC-9157-6429A0D54806}
 	EndGlobalSection
 EndGlobal
