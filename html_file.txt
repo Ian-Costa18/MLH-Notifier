@@ -20,7 +20,7 @@
 <script src="/cdn-cgi/apps/head/zpsDVUdiLpwMJmkGvxaebn23sOw.js"></script><link href="/assets/favicon-6df8696f578d7a330726bbe7c180e456.ico" rel="shortcut icon"/>
 <link href="/assets/application-39ca1798f64279178ed39162ac846a8b.css" media="all" rel="stylesheet"/>
 <meta content="authenticity_token" name="csrf-param"/>
-<meta content="Ce/5YknDd+xUjwkBE38bCzqwgqrw91pfNUhpbwgldJ31Ac2YBHfgIiGI/WdFlMpQ1g/Vs/GRyFhMpFyvH/6F6A==" name="csrf-token"/>
+<meta content="hyyRiwcG0UuzEI7Kmh/+SmUXKtQv697ehVvDYa++A5lkLdSQAwJo8i+M0nZ1ypR8qORXuZSuqK3UZ8p4bNSC+Q==" name="csrf-token"/>
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -1670,7 +1670,7 @@
 <div class="inner">
 <div class="image-wrap"><img alt="Mlh2019" src="https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/062/thumb/MLH2019.png?1543938794"/></div>
 <div class="event-logo"><img alt="Mlh2019" src="https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/062/thumb/MLH2019.png?1543938793"/></div>
-<h3 itemprop="name"> <span class="__cf_email__" data-cfemail="90d8d1d3dbd0c7c0d9">[email protected]</span> </h3>
+<h3 itemprop="name"> <span class="__cf_email__" data-cfemail="d19990929a91868198">[email protected]</span> </h3>
 <p>Jan 18th - 20th</p>
 <meta content="2019-01-18" itemprop="startDate"/>
 <meta content="2019-01-20" itemprop="endDate"/>
@@ -2250,7 +2250,7 @@
 <div class="inner">
 <div class="image-wrap"><img alt="Cewit" src="https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/090/thumb/cewit.png?1546894210"/></div>
 <div class="event-logo"><img alt="Cewit logo circle 2  19" src="https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/090/thumb/cewit-logo-circle_2__19.png?1546894209"/></div>
-<h3 itemprop="name"><span class="__cf_email__" data-cfemail="5b133a38301b181e0c120f">[email protected]</span> 2019</h3>
+<h3 itemprop="name"><span class="__cf_email__" data-cfemail="3e765f5d557e7d7b69776a">[email protected]</span> 2019</h3>
 <p>Feb 15th - 17th</p>
 <meta content="2019-02-15" itemprop="startDate"/>
 <meta content="2019-02-17" itemprop="endDate"/>
