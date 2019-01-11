@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MLH-Hackathon-Scraper", "MLH-Hackathon-Scraper.pyproj", "{A573B9FB-A8AC-463D-8599-E662796B79FE}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MLH-Notifier", "MLH-Notifier.pyproj", "{A573B9FB-A8AC-463D-8599-E662796B79FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

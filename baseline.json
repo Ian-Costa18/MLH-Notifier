@@ -1221,6 +1221,16 @@
     },
     {
         "Event number": 122,
+        "Name": "CrimsonCode",
+        "Date": "Feb 23rd - 24th",
+        "Start Date": "2019-02-23",
+        "End Date": "2019-02-24",
+        "Location": "Pullman,WA",
+        "Link": "http://hackathon.eecs.wsu.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 123,
         "Name": "HackCU",
         "Date": "Feb 23rd - 24th",
         "Start Date": "2019-02-23",
@@ -1230,7 +1240,7 @@
         "HS only?": false
     },
     {
-        "Event number": 123,
+        "Event number": 124,
         "Name": "HackTCNJ",
         "Date": "Feb 23rd - 24th",
         "Start Date": "2019-02-23",
@@ -1240,7 +1250,7 @@
         "HS only?": false
     },
     {
-        "Event number": 124,
+        "Event number": 125,
         "Name": "HackUTD",
         "Date": "Feb 23rd - 24th",
         "Start Date": "2019-02-23",
@@ -1250,7 +1260,7 @@
         "HS only?": false
     },
     {
-        "Event number": 125,
+        "Event number": 126,
         "Name": "PickHacks",
         "Date": "Mar 1st - 3rd",
         "Start Date": "2019-03-01",
@@ -1260,7 +1270,7 @@
         "HS only?": false
     },
     {
-        "Event number": 126,
+        "Event number": 127,
         "Name": "WiCHacks",
         "Date": "Mar 2nd - 3rd",
         "Start Date": "2019-03-02",
@@ -1270,7 +1280,7 @@
         "HS only?": false
     },
     {
-        "Event number": 127,
+        "Event number": 128,
         "Name": "TechTogether Boston",
         "Date": "Mar 22nd - 24th",
         "Start Date": "2019-03-22",
@@ -1280,7 +1290,7 @@
         "HS only?": false
     },
     {
-        "Event number": 128,
+        "Event number": 129,
         "Name": "Los Altos Hacks",
         "Date": "Los Altos Hacks",
         "Start Date": "2019-03-23",
