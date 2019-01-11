@@ -19,9 +19,7 @@
     <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="baseline.txt" />
     <Content Include="html_file.txt" />
-    <Content Include="Old code.txt" />
     <Content Include="TODO.PNG" />
     <Content Include="TODO2.PNG" />
   </ItemGroup>

@@ -1,0 +1,1292 @@
+[
+    {
+        "Event number": 0,
+        "Name": "Hack the 6ix 2018",
+        "Date": "Aug 24th - 26th",
+        "Start Date": "2018-08-24",
+        "End Date": "2018-08-26",
+        "Location": "Toronto,ON",
+        "Link": "http://hackthe6ix.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 1,
+        "Name": "HackMTY",
+        "Date": "Aug 25th - 26th",
+        "Start Date": "2018-08-25",
+        "End Date": "2018-08-26",
+        "Location": "Monterrey,MX",
+        "Link": "http://hackmty.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 2,
+        "Name": "ByteHacks",
+        "Date": "Sep 1st - 2nd",
+        "Start Date": "2018-09-01",
+        "End Date": "2018-09-02",
+        "Location": "New York,NY",
+        "Link": "http://bytehacks.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 3,
+        "Name": "MedHacks",
+        "Date": "Sep 7th - 9th",
+        "Start Date": "2018-09-07",
+        "End Date": "2018-09-09",
+        "Location": "Baltimore,MD",
+        "Link": "http://medhacks.org/2018",
+        "HS only?": false
+    },
+    {
+        "Event number": 4,
+        "Name": "MXHacks",
+        "Date": "Sep 7th - 9th",
+        "Start Date": "2018-09-07",
+        "End Date": "2018-09-09",
+        "Location": "Mexico City,MX",
+        "Link": "https://mxhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 5,
+        "Name": "PennApps",
+        "Date": "Sep 7th - 9th",
+        "Start Date": "2018-09-07",
+        "End Date": "2018-09-09",
+        "Location": "Philadelphia,PA",
+        "Link": "http://2018f.pennapps.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 6,
+        "Name": "HackTheU",
+        "Date": "Sep 8th - 9th",
+        "Start Date": "2018-09-08",
+        "End Date": "2018-09-09",
+        "Location": "Salt Lake City,UT",
+        "Link": "http://hacktheu.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 7,
+        "Name": "HackRice 8",
+        "Date": "Sep 14th - 16th",
+        "Start Date": "2018-09-14",
+        "End Date": "2018-09-16",
+        "Location": "Houston,TX",
+        "Link": "http://hack.rice.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 8,
+        "Name": "Hack the North",
+        "Date": "Sep 14th - 16th",
+        "Start Date": "2018-09-14",
+        "End Date": "2018-09-16",
+        "Location": "Waterloo,ON",
+        "Link": "https://hackthenorth.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 9,
+        "Name": "SBU Hacks",
+        "Date": "Sep 14th - 15th",
+        "Start Date": "2018-09-14",
+        "End Date": "2018-09-15",
+        "Location": "Stony Brook,NY",
+        "Link": "http://sbuhacks.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 10,
+        "Name": "ShellHacks",
+        "Date": "Sep 14th - 16th",
+        "Start Date": "2018-09-14",
+        "End Date": "2018-09-16",
+        "Location": "Miami,FL",
+        "Link": "https://shellhacks.net/",
+        "HS only?": false
+    },
+    {
+        "Event number": 11,
+        "Name": "Hophacks",
+        "Date": "Sep 15th - 17th",
+        "Start Date": "2018-09-15",
+        "End Date": "2018-09-17",
+        "Location": "Baltimore,MD",
+        "Link": "http://hophacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 12,
+        "Name": "Lumohacks",
+        "Date": "Sep 15th - 16th",
+        "Start Date": "2018-09-15",
+        "End Date": "2018-09-16",
+        "Location": "Burnaby,BC",
+        "Link": "http://lumohacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 13,
+        "Name": "BASEHacks 3.0",
+        "Date": "BASEHacks 3.0",
+        "Start Date": "2018-09-22",
+        "End Date": "2018-09-23",
+        "Location": "Sep 22nd - 23rdFremont,CA",
+        "Link": "http://www.basehacks.org/",
+        "HS only?": true
+    },
+    {
+        "Event number": 14,
+        "Name": "GrizzHacks",
+        "Date": "Sep 22nd - 23rd",
+        "Start Date": "2018-09-22",
+        "End Date": "2018-09-23",
+        "Location": "Rochester,MI",
+        "Link": "http://grizzhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 15,
+        "Name": "Ram Hacks",
+        "Date": "Sep 22nd - 23rd",
+        "Start Date": "2018-09-22",
+        "End Date": "2018-09-23",
+        "Location": "Richmond,VA",
+        "Link": "http://ramhacks.vcu.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 16,
+        "Name": "Volhacks",
+        "Date": "Sep 28th - 30th",
+        "Start Date": "2018-09-28",
+        "End Date": "2018-09-30",
+        "Location": "Knoxville,TN",
+        "Link": "https://volhacks.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 17,
+        "Name": "HackNY",
+        "Date": "Sep 29th - 30th",
+        "Start Date": "2018-09-29",
+        "End Date": "2018-09-30",
+        "Location": "New York,NY",
+        "Link": "http://hackny.org/hackathon/",
+        "HS only?": false
+    },
+    {
+        "Event number": 18,
+        "Name": "Mining hack",
+        "Date": "Sep 29th - 30th",
+        "Start Date": "2018-09-29",
+        "End Date": "2018-09-30",
+        "Location": "Torre\u00f3n,MX",
+        "Link": "http://mininghack.tech/",
+        "HS only?": false
+    },
+    {
+        "Event number": 19,
+        "Name": "HackGSU",
+        "Date": "Oct 5th - 7th",
+        "Start Date": "2018-10-05",
+        "End Date": "2018-10-07",
+        "Location": "Atlanta,GA",
+        "Link": "http://hackgsu.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 20,
+        "Name": "HackNC",
+        "Date": "Oct 5th - 7th",
+        "Start Date": "2018-10-05",
+        "End Date": "2018-10-07",
+        "Location": "Chapel Hill,NC",
+        "Link": "http://hacknc.com",
+        "HS only?": false
+    },
+    {
+        "Event number": 21,
+        "Name": "Hack This. Help Kids.",
+        "Date": "Oct 5th - 6th",
+        "Start Date": "2018-10-05",
+        "End Date": "2018-10-06",
+        "Location": "Pittsburgh,PA",
+        "Link": "http://hackthishelpkids.com",
+        "HS only?": false
+    },
+    {
+        "Event number": 22,
+        "Name": "HackPSU",
+        "Date": "Oct 6th - 7th",
+        "Start Date": "2018-10-06",
+        "End Date": "2018-10-07",
+        "Location": "State College,PA",
+        "Link": "https://hackpsu.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 23,
+        "Name": "HackRU",
+        "Date": "Oct 6th - 7th",
+        "Start Date": "2018-10-06",
+        "End Date": "2018-10-07",
+        "Location": "New Brunswick,NJ",
+        "Link": "https://www.hackru.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 24,
+        "Name": "HackUIowa",
+        "Date": "Oct 6th - 7th",
+        "Start Date": "2018-10-06",
+        "End Date": "2018-10-07",
+        "Location": "Iowa City,IA",
+        "Link": "http://bigdata.uiowa.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 25,
+        "Name": "HackUTA",
+        "Date": "Oct 6th - 7th",
+        "Start Date": "2018-10-06",
+        "End Date": "2018-10-07",
+        "Location": "Arlington,TX",
+        "Link": "http://hackuta.com",
+        "HS only?": false
+    },
+    {
+        "Event number": 26,
+        "Name": "HAkron 3000",
+        "Date": "Oct 6th - 7th",
+        "Start Date": "2018-10-06",
+        "End Date": "2018-10-07",
+        "Location": "Akron,OH",
+        "Link": "http://www.hakron.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 27,
+        "Name": "HackCooper",
+        "Date": "Oct 12th - 13th",
+        "Start Date": "2018-10-12",
+        "End Date": "2018-10-13",
+        "Location": "New York,NY",
+        "Link": "http://hackcooper.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 28,
+        "Name": "HackUMass",
+        "Date": "Oct 12th - 14th",
+        "Start Date": "2018-10-12",
+        "End Date": "2018-10-14",
+        "Location": "Amherst,MA",
+        "Link": "https://hackumass.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 29,
+        "Name": "MHacks",
+        "Date": "Oct 12th - 14th",
+        "Start Date": "2018-10-12",
+        "End Date": "2018-10-14",
+        "Location": "Ann Arbor,MI",
+        "Link": "https://mhacks.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 30,
+        "Name": "PatriotHacks",
+        "Date": "Oct 12th - 14th",
+        "Start Date": "2018-10-12",
+        "End Date": "2018-10-14",
+        "Location": "Fairfax,VA",
+        "Link": "http://patriothacks.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 31,
+        "Name": "SD Hacks",
+        "Date": "Oct 12th - 14th",
+        "Start Date": "2018-10-12",
+        "End Date": "2018-10-14",
+        "Location": "La Jolla,CA",
+        "Link": "http://www.sdhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 32,
+        "Name": "TigerHacks",
+        "Date": "Oct 12th - 14th",
+        "Start Date": "2018-10-12",
+        "End Date": "2018-10-14",
+        "Location": "Columbia,MO",
+        "Link": "http://tigerhacks.missouri.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 33,
+        "Name": "EastHacks",
+        "Date": "EastHacks",
+        "Start Date": "2018-10-13",
+        "End Date": "2018-10-14",
+        "Location": "Oct 13th - 14thCherry Hill,NJ",
+        "Link": "https://www.easthacks.us/",
+        "HS only?": true
+    },
+    {
+        "Event number": 34,
+        "Name": "HackDuke",
+        "Date": "Oct 13th - 14th",
+        "Start Date": "2018-10-13",
+        "End Date": "2018-10-14",
+        "Location": "Durham,NC",
+        "Link": "http://hackduke.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 35,
+        "Name": "BigRed//Hacks",
+        "Date": "Oct 19th - 21st",
+        "Start Date": "2018-10-19",
+        "End Date": "2018-10-21",
+        "Location": "Ithaca,NY",
+        "Link": "http://bigredhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 36,
+        "Name": "BoilerMake",
+        "Date": "Oct 19th - 21st",
+        "Start Date": "2018-10-19",
+        "End Date": "2018-10-21",
+        "Location": "West Lafayette,IN",
+        "Link": "http://boilermake.org",
+        "HS only?": false
+    },
+    {
+        "Event number": 37,
+        "Name": "HackGT",
+        "Date": "Oct 19th - 21st",
+        "Start Date": "2018-10-19",
+        "End Date": "2018-10-21",
+        "Location": "Atlanta,GA",
+        "Link": "https://2018.hack.gt/",
+        "HS only?": false
+    },
+    {
+        "Event number": 38,
+        "Name": "HackHarvard College",
+        "Date": "Oct 19th - 21st",
+        "Start Date": "2018-10-19",
+        "End Date": "2018-10-21",
+        "Location": "Cambridge,MA",
+        "Link": "http://hackharvard.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 39,
+        "Name": "HackISU",
+        "Date": "Oct 19th - 21st",
+        "Start Date": "2018-10-19",
+        "End Date": "2018-10-21",
+        "Location": "Ames,IA",
+        "Link": "http://hackisu.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 40,
+        "Name": "Hack KState",
+        "Date": "Oct 19th - 21st",
+        "Start Date": "2018-10-19",
+        "End Date": "2018-10-21",
+        "Location": "Manhattan,KS",
+        "Link": "https://hackkstate.tech/",
+        "HS only?": false
+    },
+    {
+        "Event number": 41,
+        "Name": "Kent Hack Enough",
+        "Date": "Oct 19th - 21st",
+        "Start Date": "2018-10-19",
+        "End Date": "2018-10-21",
+        "Location": "Kent,OH",
+        "Link": "http://khe.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 42,
+        "Name": "DemonHacks",
+        "Date": "Oct 20th - 21st",
+        "Start Date": "2018-10-20",
+        "End Date": "2018-10-21",
+        "Location": "Chicago,IL",
+        "Link": "http://demonhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 43,
+        "Name": "DubHacks",
+        "Date": "Oct 20th - 21st",
+        "Start Date": "2018-10-20",
+        "End Date": "2018-10-21",
+        "Location": "Seattle,WA",
+        "Link": "http://dubhacks.co/",
+        "HS only?": false
+    },
+    {
+        "Event number": 44,
+        "Name": "HackTX",
+        "Date": "Oct 20th - 21st",
+        "Start Date": "2018-10-20",
+        "End Date": "2018-10-21",
+        "Location": "Austin,TX",
+        "Link": "http://hacktx.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 45,
+        "Name": "HackUMBC",
+        "Date": "Oct 20th - 21st",
+        "Start Date": "2018-10-20",
+        "End Date": "2018-10-21",
+        "Location": "Baltimore,MD",
+        "Link": "http://hackumbc.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 46,
+        "Name": "HyphenHacks",
+        "Date": "HyphenHacks",
+        "Start Date": "2018-10-20",
+        "End Date": "2018-10-21",
+        "Location": "Oct 20th - 21stSan Francisco,CA",
+        "Link": "https://hyphen-hacks.com/",
+        "HS only?": true
+    },
+    {
+        "Event number": 47,
+        "Name": "Power the Future",
+        "Date": "Oct 20th - 21st",
+        "Start Date": "2018-10-20",
+        "End Date": "2018-10-21",
+        "Location": "Richmond,VA",
+        "Link": "http://powerthefuture.energy/",
+        "HS only?": false
+    },
+    {
+        "Event number": 48,
+        "Name": "Cal Hacks 5.0",
+        "Date": "Nov 2nd - 4th",
+        "Start Date": "2018-11-02",
+        "End Date": "2018-11-04",
+        "Location": "Berkeley,CA",
+        "Link": "https://2018.calhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 49,
+        "Name": "Electric City Hacks",
+        "Date": "Nov 2nd - 4th",
+        "Start Date": "2018-11-02",
+        "End Date": "2018-11-04",
+        "Location": "Peterborough,ON",
+        "Link": "http://echacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 50,
+        "Name": "HackHolyoke",
+        "Date": "Nov 2nd - 3rd",
+        "Start Date": "2018-11-02",
+        "End Date": "2018-11-03",
+        "Location": "South Hadley,MA",
+        "Link": "http://hackholyoke.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 51,
+        "Name": "VandyHacks",
+        "Date": "Nov 2nd - 4th",
+        "Start Date": "2018-11-02",
+        "End Date": "2018-11-04",
+        "Location": "Nashville,TN",
+        "Link": "https://vandyhacks.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 52,
+        "Name": "WHACK (Wellesley Hacks)",
+        "Date": "Nov 2nd - 4th",
+        "Start Date": "2018-11-02",
+        "End Date": "2018-11-04",
+        "Location": "Wellesley,MA",
+        "Link": "http://wellesleyhacks.org",
+        "HS only?": false
+    },
+    {
+        "Event number": 53,
+        "Name": "CodeRED Discovery",
+        "Date": "Nov 3rd - 4th",
+        "Start Date": "2018-11-03",
+        "End Date": "2018-11-04",
+        "Location": "Houston,TX",
+        "Link": "https://uhcode.red/",
+        "HS only?": false
+    },
+    {
+        "Event number": 54,
+        "Name": "HackBI II",
+        "Date": "HackBI II",
+        "Start Date": "2018-11-03",
+        "End Date": "2018-11-04",
+        "Location": "Nov 3rd - 4thAlexandria,VA",
+        "Link": "http://hackbi.org/",
+        "HS only?": true
+    },
+    {
+        "Event number": 55,
+        "Name": "HackNJIT",
+        "Date": "Nov 3rd - 4th",
+        "Start Date": "2018-11-03",
+        "End Date": "2018-11-04",
+        "Location": "Newark,NJ",
+        "Link": "http://www.hacknjit.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 56,
+        "Name": "hackPHS",
+        "Date": "hackPHS",
+        "Start Date": "2018-11-03",
+        "End Date": "2018-11-04",
+        "Location": "Nov 3rd - 4thPrinceton,NJ",
+        "Link": "http://hackphs.tech/",
+        "HS only?": true
+    },
+    {
+        "Event number": 57,
+        "Name": "HealthHacks",
+        "Date": "Nov 3rd - 4th",
+        "Start Date": "2018-11-03",
+        "End Date": "2018-11-04",
+        "Location": "Richmond,VA",
+        "Link": "https://healthhacks.vcu.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 58,
+        "Name": "UB Hacking",
+        "Date": "Nov 3rd - 4th",
+        "Start Date": "2018-11-03",
+        "End Date": "2018-11-04",
+        "Location": "Amherst,NY",
+        "Link": "http://ubhacking.com",
+        "HS only?": false
+    },
+    {
+        "Event number": 59,
+        "Name": "HackPrinceton",
+        "Date": "Nov 9th - 11th",
+        "Start Date": "2018-11-09",
+        "End Date": "2018-11-11",
+        "Location": "Princeton,NJ",
+        "Link": "https://hackprinceton.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 60,
+        "Name": "sunhacks",
+        "Date": "Nov 9th - 11th",
+        "Start Date": "2018-11-09",
+        "End Date": "2018-11-11",
+        "Location": "Phoenix / Tempe,AZ",
+        "Link": "http://sunhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 61,
+        "Name": "BostonHacks",
+        "Date": "Nov 10th - 11th",
+        "Start Date": "2018-11-10",
+        "End Date": "2018-11-11",
+        "Location": "Boston,MA",
+        "Link": "http://bostonhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 62,
+        "Name": "Codestellation",
+        "Date": "Nov 10th - 11th",
+        "Start Date": "2018-11-10",
+        "End Date": "2018-11-11",
+        "Location": "Waltham,MA",
+        "Link": "http://www.codestellation.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 63,
+        "Name": "HackMCST",
+        "Date": "HackMCST",
+        "Start Date": "2018-11-10",
+        "End Date": "2018-11-11",
+        "Location": "Nov 10th - 11thDenville,NJ",
+        "Link": "http://hackmcst.tech/",
+        "HS only?": true
+    },
+    {
+        "Event number": 64,
+        "Name": "HackWITUs",
+        "Date": "Nov 10th - 11th",
+        "Start Date": "2018-11-10",
+        "End Date": "2018-11-11",
+        "Location": "Boston,MA",
+        "Link": "https://hackwit.us/",
+        "HS only?": false
+    },
+    {
+        "Event number": 65,
+        "Name": "MadHacks",
+        "Date": "Nov 10th - 11th",
+        "Start Date": "2018-11-10",
+        "End Date": "2018-11-11",
+        "Location": "Madison,WI",
+        "Link": "https://www.madhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 66,
+        "Name": "Technica",
+        "Date": "Nov 10th - 11th",
+        "Start Date": "2018-11-10",
+        "End Date": "2018-11-11",
+        "Location": "College Park,MD",
+        "Link": "https://gotechnica.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 67,
+        "Name": "HackUSU",
+        "Date": "Nov 16th - 17th",
+        "Start Date": "2018-11-16",
+        "End Date": "2018-11-17",
+        "Location": "Logan,UT",
+        "Link": "http://hackusu.org",
+        "HS only?": false
+    },
+    {
+        "Event number": 68,
+        "Name": "Lehman Hack50",
+        "Date": "Nov 16th - 17th",
+        "Start Date": "2018-11-16",
+        "End Date": "2018-11-17",
+        "Location": "Bronx,NY",
+        "Link": "https://nslehman.github.io/nshackathon/",
+        "HS only?": false
+    },
+    {
+        "Event number": 69,
+        "Name": "BlocHacks",
+        "Date": "Nov 17th - 18th",
+        "Start Date": "2018-11-17",
+        "End Date": "2018-11-18",
+        "Location": "Montreal,QC",
+        "Link": "http://www.blochacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 70,
+        "Name": "SacHacks",
+        "Date": "Nov 17th - 18th",
+        "Start Date": "2018-11-17",
+        "End Date": "2018-11-18",
+        "Location": "Sacramento,CA",
+        "Link": "http://sachacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 71,
+        "Name": "Hack Western V",
+        "Date": "Nov 23rd - 25th",
+        "Start Date": "2018-11-23",
+        "End Date": "2018-11-25",
+        "Location": "London,ON",
+        "Link": "https://hackwestern.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 72,
+        "Name": "YHack",
+        "Date": "Nov 30th - Dec 2nd",
+        "Start Date": "2018-11-30",
+        "End Date": "2018-12-02",
+        "Location": "New Haven,CT",
+        "Link": "https://www.yhack.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 73,
+        "Name": "Local Hack Day",
+        "Date": "Dec 1st",
+        "Start Date": "2018-12-01",
+        "End Date": "2018-12-01",
+        "Location": "Everywhere,Worldwide",
+        "Link": "https://localhackday.mlh.io",
+        "HS only?": false
+    },
+    {
+        "Event number": 74,
+        "Name": "Urban Hacks",
+        "Date": "Urban Hacks",
+        "Start Date": "2018-12-08",
+        "End Date": "2018-12-09",
+        "Location": "Dec 8th - 9thHamilton,ON",
+        "Link": "https://hackthehammer.com/",
+        "HS only?": true
+    },
+    {
+        "Event number": 75,
+        "Name": "SB Hacks",
+        "Date": "Jan 11th - 13th",
+        "Start Date": "2019-01-11",
+        "End Date": "2019-01-13",
+        "Location": "Santa Barbara,CA",
+        "Link": "https://sbhacks.com",
+        "HS only?": false
+    },
+    {
+        "Event number": 76,
+        "Name": "StarterHacks 2019",
+        "Date": "Jan 12th - 13th",
+        "Start Date": "2019-01-12",
+        "End Date": "2019-01-13",
+        "Location": "Waterloo,ON",
+        "Link": "https://starterhacks.ca/",
+        "HS only?": false
+    },
+    {
+        "Event number": 77,
+        "Name": "CruzHacks 2019",
+        "Date": "Jan 18th - 20th",
+        "Start Date": "2019-01-18",
+        "End Date": "2019-01-20",
+        "Location": "Santa Cruz,CA",
+        "Link": "https://www.cruzhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 78,
+        "Name": "HACK@WPI",
+        "Date": "Jan 18th - 20th",
+        "Start Date": "2019-01-18",
+        "End Date": "2019-01-20",
+        "Location": "Worcester,MA",
+        "Link": "http://hack.wpi.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 79,
+        "Name": "SpartaHack V",
+        "Date": "Jan 18th - 20th",
+        "Start Date": "2019-01-18",
+        "End Date": "2019-01-20",
+        "Location": "East Lansing,MI",
+        "Link": "https://spartahack.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 80,
+        "Name": "SwampHacks",
+        "Date": "Jan 18th - 20th",
+        "Start Date": "2019-01-18",
+        "End Date": "2019-01-20",
+        "Location": "Gainesville,FL",
+        "Link": "https://2019.swamphacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 81,
+        "Name": "UofTHacks",
+        "Date": "Jan 18th - 20th",
+        "Start Date": "2019-01-18",
+        "End Date": "2019-01-20",
+        "Location": "Toronto,ON",
+        "Link": "https://uofthacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 82,
+        "Name": "Hackatown",
+        "Date": "Jan 19th - 20th",
+        "Start Date": "2019-01-19",
+        "End Date": "2019-01-20",
+        "Location": "Montreal,QC",
+        "Link": "https://hackatown.io",
+        "HS only?": false
+    },
+    {
+        "Event number": 83,
+        "Name": "HackED",
+        "Date": "Jan 19th - 20th",
+        "Start Date": "2019-01-19",
+        "End Date": "2019-01-20",
+        "Location": "Edmonton,AB",
+        "Link": "https://hacked.compeclub.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 84,
+        "Name": "HackFRee",
+        "Date": "HackFRee",
+        "Start Date": "2019-01-19",
+        "End Date": "2019-01-20",
+        "Location": "Jan 19th - 20thManalapan,NJ",
+        "Link": "http://hackfree.info",
+        "HS only?": true
+    },
+    {
+        "Event number": 85,
+        "Name": "Rose Hack",
+        "Date": "Jan 19th - 20th",
+        "Start Date": "2019-01-19",
+        "End Date": "2019-01-20",
+        "Location": "Riverside,CA",
+        "Link": "https://rosehack.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 86,
+        "Name": "<womxn/hacks>",
+        "Date": "Jan 25th - 27th",
+        "Start Date": "2019-01-25",
+        "End Date": "2019-01-27",
+        "Location": "Santa Barbara,CA",
+        "Link": "https://www.womxnhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 87,
+        "Name": "ConUHacks IV",
+        "Date": "Jan 26th - 27th",
+        "Start Date": "2019-01-26",
+        "End Date": "2019-01-27",
+        "Location": "Montreal,QC",
+        "Link": "https://conuhacks.io/#/",
+        "HS only?": false
+    },
+    {
+        "Event number": 88,
+        "Name": "CUhackit",
+        "Date": "Jan 26th - 27th",
+        "Start Date": "2019-01-26",
+        "End Date": "2019-01-27",
+        "Location": "Clemson,SC",
+        "Link": "http://cuhack.it/",
+        "HS only?": false
+    },
+    {
+        "Event number": 89,
+        "Name": "DeltaHacks",
+        "Date": "Jan 26th - 27th",
+        "Start Date": "2019-01-26",
+        "End Date": "2019-01-27",
+        "Location": "Hamilton,ON",
+        "Link": "https://www.deltahacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 90,
+        "Name": "EarthHacks",
+        "Date": "Jan 26th - 27th",
+        "Start Date": "2019-01-26",
+        "End Date": "2019-01-27",
+        "Location": "Richmond,VA",
+        "Link": "https://earthhacks.vcu.edu/",
+        "HS only?": false
+    },
+    {
+        "Event number": 91,
+        "Name": "nwHacks",
+        "Date": "Jan 26th - 27th",
+        "Start Date": "2019-01-26",
+        "End Date": "2019-01-27",
+        "Location": "Vancouver,BC",
+        "Link": "http://nwhacks.io",
+        "HS only?": false
+    },
+    {
+        "Event number": 92,
+        "Name": "TAMUhack",
+        "Date": "Jan 26th - 27th",
+        "Start Date": "2019-01-26",
+        "End Date": "2019-01-27",
+        "Location": "College Station,TX",
+        "Link": "https://tamuhack.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 93,
+        "Name": "Hoya Hacks",
+        "Date": "Feb 1st - 3rd",
+        "Start Date": "2019-02-01",
+        "End Date": "2019-02-03",
+        "Location": "Washington,DC",
+        "Link": "http://www.hoyahacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 94,
+        "Name": "MangoHacks",
+        "Date": "Feb 1st - 3rd",
+        "Start Date": "2019-02-01",
+        "End Date": "2019-02-03",
+        "Location": "Miami,FL",
+        "Link": "https://mangohacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 95,
+        "Name": "QHacks",
+        "Date": "Feb 1st - 3rd",
+        "Start Date": "2019-02-01",
+        "End Date": "2019-02-03",
+        "Location": "Kingston,ON",
+        "Link": "https://qhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 96,
+        "Name": "SLO Hacks",
+        "Date": "Feb 1st - 3rd",
+        "Start Date": "2019-02-01",
+        "End Date": "2019-02-03",
+        "Location": "San Luis Obispo,CA",
+        "Link": "https://www.slohacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 97,
+        "Name": "AuburnHacks",
+        "Date": "Feb 2nd - 3rd",
+        "Start Date": "2019-02-02",
+        "End Date": "2019-02-03",
+        "Location": "Auburn,AL",
+        "Link": "https://auburnhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 98,
+        "Name": "MakeHarvard",
+        "Date": "Feb 2nd - 3rd",
+        "Start Date": "2019-02-02",
+        "End Date": "2019-02-03",
+        "Location": "Cambridge,MA",
+        "Link": "http://makeharvard.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 99,
+        "Name": "McHacks 6",
+        "Date": "Feb 2nd - 3rd",
+        "Start Date": "2019-02-02",
+        "End Date": "2019-02-03",
+        "Location": "Montreal,QC",
+        "Link": "https://mchacks.ca",
+        "HS only?": false
+    },
+    {
+        "Event number": 100,
+        "Name": "MinneHack",
+        "Date": "Feb 2nd - 3rd",
+        "Start Date": "2019-02-02",
+        "End Date": "2019-02-03",
+        "Location": "Minneapolis,MN",
+        "Link": "https://minnehack.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 101,
+        "Name": "PennApps",
+        "Date": "Feb 2nd - 3rd",
+        "Start Date": "2019-02-02",
+        "End Date": "2019-02-03",
+        "Location": "Philadelphia,PA",
+        "Link": "http://2019w.pennapps.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 102,
+        "Name": "CalvinHacks",
+        "Date": "Feb 8th - 9th",
+        "Start Date": "2019-02-08",
+        "End Date": "2019-02-09",
+        "Location": "Grand Rapids,MI",
+        "Link": "https://calvinhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 103,
+        "Name": "Hack KU",
+        "Date": "Feb 8th - 10th",
+        "Start Date": "2019-02-08",
+        "End Date": "2019-02-10",
+        "Location": "Lawrence,KS",
+        "Link": "https://hackku.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 104,
+        "Name": "UGAHacks 4",
+        "Date": "Feb 8th - 10th",
+        "Start Date": "2019-02-08",
+        "End Date": "2019-02-10",
+        "Location": "Athens,GA",
+        "Link": "https://ugahacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 105,
+        "Name": "HackDavis",
+        "Date": "Feb 9th - 10th",
+        "Start Date": "2019-02-09",
+        "End Date": "2019-02-10",
+        "Location": "Davis,CA",
+        "Link": "https://www.hackdavis.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 106,
+        "Name": "HackHer413",
+        "Date": "Feb 9th - 10th",
+        "Start Date": "2019-02-09",
+        "End Date": "2019-02-10",
+        "Location": "Amherst,MA",
+        "Link": "http://www.hackher413.com",
+        "HS only?": false
+    },
+    {
+        "Event number": 107,
+        "Name": "Hacklahoma",
+        "Date": "Feb 9th - 10th",
+        "Start Date": "2019-02-09",
+        "End Date": "2019-02-10",
+        "Location": "Norman,OK",
+        "Link": "https://hacklahoma.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 108,
+        "Name": "uOttaHack",
+        "Date": "Feb 9th - 10th",
+        "Start Date": "2019-02-09",
+        "End Date": "2019-02-10",
+        "Location": "Ottawa,ON",
+        "Link": "https://2019.uottahack.ca/",
+        "HS only?": false
+    },
+    {
+        "Event number": 109,
+        "Name": "XdHacks",
+        "Date": "Feb 9th - 10th",
+        "Start Date": "2019-02-09",
+        "End Date": "2019-02-10",
+        "Location": "Vancouver,BC",
+        "Link": "https://xdhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 110,
+        "Name": "Hack@CEWIT 2019",
+        "Date": "2019",
+        "Start Date": "2019-02-15",
+        "End Date": "2019-02-17",
+        "Location": "Feb 15th - 17thStony Brook,NY",
+        "Link": "https://www.cewit.org/programs/events/hack.php",
+        "HS only?": false
+    },
+    {
+        "Event number": 111,
+        "Name": "HackNYU",
+        "Date": "Feb 15th - 17th",
+        "Start Date": "2019-02-15",
+        "End Date": "2019-02-17",
+        "Location": "New York,NY",
+        "Link": "https://hacknyu.org",
+        "HS only?": false
+    },
+    {
+        "Event number": 112,
+        "Name": "HopHacks",
+        "Date": "Feb 15th - 17th",
+        "Start Date": "2019-02-15",
+        "End Date": "2019-02-17",
+        "Location": "Baltimore,MD",
+        "Link": "https://hophacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 113,
+        "Name": "TreeHacks",
+        "Date": "Feb 15th - 17th",
+        "Start Date": "2019-02-15",
+        "End Date": "2019-02-17",
+        "Location": "Stanford,CA",
+        "Link": "https://www.treehacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 114,
+        "Name": "VT Hacks VI",
+        "Date": "Feb 15th - 17th",
+        "Start Date": "2019-02-15",
+        "End Date": "2019-02-17",
+        "Location": "Blacksburg,VA",
+        "Link": "https://vthacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 115,
+        "Name": "BrickHack",
+        "Date": "Feb 16th - 17th",
+        "Start Date": "2019-02-16",
+        "End Date": "2019-02-17",
+        "Location": "Rochester,NY",
+        "Link": "http://brickhack.io",
+        "HS only?": false
+    },
+    {
+        "Event number": 116,
+        "Name": "cuHacking",
+        "Date": "Feb 16th - 17th",
+        "Start Date": "2019-02-16",
+        "End Date": "2019-02-17",
+        "Location": "Ottawa,CA",
+        "Link": "https://cuhacking.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 117,
+        "Name": "HackHERS",
+        "Date": "Feb 16th - 17th",
+        "Start Date": "2019-02-16",
+        "End Date": "2019-02-17",
+        "Location": "New Brunswick,NJ",
+        "Link": "https://ruhackhers.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 118,
+        "Name": "MakeUofT",
+        "Date": "Feb 16th - 17th",
+        "Start Date": "2019-02-16",
+        "End Date": "2019-02-17",
+        "Location": "Toronto,ON",
+        "Link": "https://ieee.utoronto.ca/makeuoft/",
+        "HS only?": false
+    },
+    {
+        "Event number": 119,
+        "Name": "Pearl Hacks",
+        "Date": "Feb 16th - 17th",
+        "Start Date": "2019-02-16",
+        "End Date": "2019-02-17",
+        "Location": "Chapel Hill,NC",
+        "Link": "http://pearlhacks.com",
+        "HS only?": false
+    },
+    {
+        "Event number": 120,
+        "Name": "Uncommon Hacks",
+        "Date": "Feb 16th - 17th",
+        "Start Date": "2019-02-16",
+        "End Date": "2019-02-17",
+        "Location": "Chicago,IL",
+        "Link": "https://uncommonhacks.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 121,
+        "Name": "Hack the Valley III",
+        "Date": "Feb 22nd - 24th",
+        "Start Date": "2019-02-22",
+        "End Date": "2019-02-24",
+        "Location": "Scarborough,ON",
+        "Link": "https://hackthevalley.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 122,
+        "Name": "HackCU",
+        "Date": "Feb 23rd - 24th",
+        "Start Date": "2019-02-23",
+        "End Date": "2019-02-24",
+        "Location": "Boulder,CO",
+        "Link": "https://hackcu.org/",
+        "HS only?": false
+    },
+    {
+        "Event number": 123,
+        "Name": "HackTCNJ",
+        "Date": "Feb 23rd - 24th",
+        "Start Date": "2019-02-23",
+        "End Date": "2019-02-24",
+        "Location": "Ewing,NJ",
+        "Link": "https://hacktcnj.com/",
+        "HS only?": false
+    },
+    {
+        "Event number": 124,
+        "Name": "HackUTD",
+        "Date": "Feb 23rd - 24th",
+        "Start Date": "2019-02-23",
+        "End Date": "2019-02-24",
+        "Location": "Richardson,TX",
+        "Link": "https://www.hackutd.co/",
+        "HS only?": false
+    },
+    {
+        "Event number": 125,
+        "Name": "PickHacks",
+        "Date": "Mar 1st - 3rd",
+        "Start Date": "2019-03-01",
+        "End Date": "2019-03-03",
+        "Location": "Rolla,MO",
+        "Link": "https://pickhacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 126,
+        "Name": "WiCHacks",
+        "Date": "Mar 2nd - 3rd",
+        "Start Date": "2019-03-02",
+        "End Date": "2019-03-03",
+        "Location": "Rochester,NY",
+        "Link": "https://wichacks.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 127,
+        "Name": "TechTogether Boston",
+        "Date": "Mar 22nd - 24th",
+        "Start Date": "2019-03-22",
+        "End Date": "2019-03-24",
+        "Location": "Boston,MA",
+        "Link": "https://boston.techtogether.io/",
+        "HS only?": false
+    },
+    {
+        "Event number": 128,
+        "Name": "Los Altos Hacks",
+        "Date": "Los Altos Hacks",
+        "Start Date": "2019-03-23",
+        "End Date": "2019-03-24",
+        "Location": "Mar 23rd - 24thSunnyvale,CA",
+        "Link": "https://www.losaltoshacks.com/",
+        "HS only?": true
+    }
+]
