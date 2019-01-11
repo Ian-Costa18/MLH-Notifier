@@ -20,7 +20,7 @@ with open("baseline.json", 'r') as file:
 
 
 class Event:
-	"""Holds the name, date, and location for each event"""
+	"""Holds information about each event"""
 
 	def __init__(self, event_num):
 		self.info = []
@@ -82,8 +82,12 @@ if new_events:
 	for event in new_events:
 		if event.highschool:
 			new_events_info.append(', '.join([
-				"*HS ONLY*",event.name,event.date,
-				event.location,event.link]))
+				"*HS ONLY*",
+				event.name,
+				event.date,
+				event.start_date[:4],
+				event.location,
+				event.link]))
 		else:
 			new_events_info.append(', '.join([
 				event.name,
