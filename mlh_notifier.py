@@ -102,7 +102,7 @@ if new_events:
                 event.link]))
 
     # Create slack bot with token
-    SLACK_TOKEN = "xoxp-462859149221-461928926352-521487611223-38de2124744a529dd081d455f8df4a72"
+    SLACK_TOKEN = ""
     SLACK_CLIENT = SlackClient(SLACK_TOKEN)
 
     # Craft slack message string and add "s" if applicable
